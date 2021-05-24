@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ruy",
+    "idade":3,
+    "descricao": "Fofo",
+    "contato": "71 8933-3408",
+    "especie": "cao"
+  },
+  {
+    "name": "Garfield",
+    "idade":13,
+    "descricao": "Devorador de lasanhas",
+    "contato": "71 8794-6591",
+    "especie": "gato"
+  },
+  {
+    "name": "Louro José",
+    "idade":15,
+    "descricao": "semideus",
+    "contato": "71 8854-6963",
+    "especie": "passaro"
+  }
+]
