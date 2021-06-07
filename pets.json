@@ -9,7 +9,7 @@
     
   },
   {
-    "nome": "Garfield",
+    "nome": "Ronaldo",
     "idade":13,
     "descricao": "Devorador de lasanhas",
     "contato": "71 8794-6591",
@@ -17,9 +17,9 @@
     "situacao": "disponivel"
   },
   {
-    "nome": "Louro José",
+    "nome": "Schopenhauer",
     "idade":15,
-    "descricao": "semideus",
+    "descricao": "tristinho",
     "contato": "71 8854-6963",
     "especie": "AVE",
     "situacao": "disponivel"
